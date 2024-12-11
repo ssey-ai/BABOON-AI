@@ -28,7 +28,7 @@ DEPLOY ON HEROKU<br>
 
 ◍ Copy This Url, Put Like This <template_link><your_github_link>
 
-      https://heroku.com/deploy?template=
+      https://dashboard.heroku.com/new?org=jaxmill-team2&template=
 
   <br>
   
