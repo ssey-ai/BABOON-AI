@@ -544,7 +544,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐁𝐀𝐁𝐎𝐎𝐍-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚-𝐀𝐈.jpg'),
                                 sourceUrl: 'https://wa.me/254714653123?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
