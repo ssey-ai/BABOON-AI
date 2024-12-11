@@ -524,7 +524,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./Classic.mp4'),
+                        video: fs.readFileSync('./Baboon.mp4'),
                         caption: cap,
 			sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",   
                         gifPlayback: true
@@ -544,7 +544,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐁𝐀𝐁𝐎𝐎𝐍-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚-𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./𝐁𝐚𝐛𝐨𝐨𝐧_𝐋𝐮𝐜𝐚𝐬-𝐀𝐈.jpg'),
                                 sourceUrl: 'https://wa.me/254714653123?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -705,7 +705,7 @@ break;
 case 'ss': case 'ssweb': {
 if (!q) return reply(`Example ${prefix+command} link`)
 let krt = await scp1.ssweb(q)
-client.sendMessage(from,{image:krt.result,caption:"Done by 𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪ˊ "}, {quoted:m})
+client.sendMessage(from,{image:krt.result,caption:"Done by 𝐁𝐚𝐛𝐨𝐨𝐧ˊ "}, {quoted:m})
 }
 break;	
 		      
