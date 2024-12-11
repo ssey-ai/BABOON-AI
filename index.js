@@ -176,7 +176,7 @@ if (autobio === 'FALSE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐮𝐜𝐚𝐬🦦 \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname} 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐮𝐜𝐚𝐬🦦 \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
