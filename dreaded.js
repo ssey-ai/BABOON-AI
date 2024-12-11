@@ -1756,7 +1756,7 @@ case "ping": case "speed": {
 
 case "alive":
 
-const audiovn = "./baboon.mp3";
+const audiovn = "./Baboon.mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -1771,7 +1771,7 @@ const audiovn = "./baboon.mp3";
           externalAdReply: {
           title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐁𝐚𝐛𝐨𝐨𝐧 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://telegra.ph/file/91c6c1302ca0c8422438e.jpg",
+          thumbnailUrl: "https://telegra.ph/file/11a7b1904a08e2e84ffb5.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           mediaType: 1,
           renderLargerThumbnail: true
