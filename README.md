@@ -45,12 +45,12 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-[Linking/Pairing](https://classic-v3-session.onrender.com/pair)
+[Linking/Pairing](https://replit.com/@17minutesago/-?s=app)
 
 
-## ` Pair On render`
 
-[Linking/Pairing](https://classic-v3-session.onrender.com/pair)
+
+
 
 
 
