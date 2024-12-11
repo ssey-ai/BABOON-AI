@@ -1871,7 +1871,7 @@ case "movie":
  break;
  
       case "lucas": case "owner": case "lucas": 
- client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/0b037a829d2fd44385d93.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254714653123 ☤☬` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: 'https://a.uguu.se/qWrDNxhB.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254714653123 ☤☬` }, {quoted: m}); 
   
  break;
        
