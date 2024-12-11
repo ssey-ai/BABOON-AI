@@ -1,6 +1,6 @@
-# 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈
+# 𝐁𝐀𝐁𝐎𝐎𝐍-𝐀𝐈
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+Classic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐁𝐀𝐁𝐎𝐎𝐍-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+𝐋𝐮𝐜𝐚𝐬" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLASSIV_CLASSIC-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/244703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/+254714653123yoh+𝐛𝐚𝐛𝐨𝐨𝐧 +nishow+venye+nitadeploy+baboon-ai'"><img title="Whatsapp" src="'https://wa.me/254714653123yoh+𝐛𝐚𝐛𝐨𝐨𝐧 +nishow+venye+nitadeploy+baboon'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/254742491666yohyoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/for/Samue-l1/Black-Mamba-Ai?color=yellow&style=flat-square"></a>
@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝐂𝐋𝐀𝐒𝐒𝐈𝐂***
+***Made on Earth by 𝐁𝐀𝐁𝐎𝐎𝐍***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -80,7 +80,7 @@ You will need an openai API key for AI features to work.
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254742491666) via WhatsApp or [here](samuelcircute@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254714653123) via WhatsApp or [here](17minutesago@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -89,5 +89,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
 
-Copyright (c) 2024  𝐂𝐋𝐀𝐒𝐒𝐈𝐂
+Copyright (c) 2024  𝐁𝐀𝐁𝐎𝐎𝐍
 
