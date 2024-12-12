@@ -103,7 +103,7 @@ const admin = process.env.ADMIN_MSG || '𝐇𝐮𝐡!\n𝐀𝐝𝐦𝐢𝐦𝐬 
     const group = process.env.GROUP_ONLY_MSG || '𝐆𝐫𝐨𝐮𝐩 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐍𝐢𝐠𝐠𝐚.';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐈𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐌𝐅'
     const NotOwner = process.env.NOT_OWNER_MSG || '𝐁𝐚𝐛𝐨𝐨𝐧 𝐨𝐧𝐥𝐲 ☬';
-const wapresence = process.env.WA_PRESENCE || 'recording';
+const wapresence = process.env.WA_PRESENCE || 'typing';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'TRUE';
 
@@ -131,7 +131,7 @@ if (wapresence === 'recording' && !m.isGroup) {
   client.sendPresenceUpdate('recording', m.chat);
 } else if (wapresence === 'typing' && !m.isGroup) { 
             
-  client.sendPresenceUpdate('recording', m.chat);
+  client.sendPresenceUpdate('typing', m.chat);
     }
     
 
@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/59057ca1de3dee3a8af5d.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐀𝐁𝐎𝐎𝐍 𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/ninty629/BABOON-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐀𝐁𝐎𝐎𝐍 𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@17minutesago/-?s=app]\n\nMade on Earth by 𝐋𝐮𝐜𝐚𝐬` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐀𝐁𝐎𝐎𝐍 𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/ninty629/BABOON-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐀𝐁𝐎𝐎𝐍 𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@17minutesago/-?s=app]\n\nMade on Earth by 𝐋𝐮𝐜𝐚𝐬🦇😂` });
 
    break;
                                                   
