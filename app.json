@@ -56,7 +56,7 @@
     },
       "AUTOREAD": {
       "description": "Put here TRUE if you want bot to automatically bluetick messages in private chats",
-      "required": true
+      "required": false
 },
  "AUTOVIEW": {
       "description": "Input true if you want bot to automatically read status update",
